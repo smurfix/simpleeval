@@ -11,3 +11,6 @@ coverage.xml
 simpleeval.egg-info/
 
 testfile.txt
+
+# Debian packaging
+/debian/
