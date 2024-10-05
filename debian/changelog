@@ -1,0 +1,5 @@
+simpleeval (1.0.0-1) unstable; urgency=medium
+
+  * Initial Debianization.
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Sat, 05 Oct 2024 10:03:50 +0200
